@@ -45,9 +45,9 @@ AsposePage().then(AsposePageModule => {
 
 Aspose.Page for Node.js is a completed library. No need others libraries to include.
 
-## Get Started with Aspose.Page for C++
+## Get Started with Aspose.Page for Node.js
 
-Are you ready to give Aspose.Page for C++ a try? Simply execute `npm i asposepagenodejs`. If you already have Aspose.Page for Node.js and want to upgrade the version, please execute `npm update asposepagenodejs` to get the latest version.
+Are you ready to give Aspose.Page for Node.js a try? Simply execute `npm i asposepagenodejs`. If you already have Aspose.Page for Node.js and want to upgrade the version, please execute `npm update asposepagenodejs` to get the latest version.
 
 [Home](https://www.aspose.com/) | [Product Page](https://products.aspose.com/page/nodejs-cpp) | [Docs](https://docs.aspose.com/page/nodejs-cpp/) | [Demos](https://products.aspose.app/page/family) | [API Reference](https://reference.aspose.com/page/nodejs-cpp) | [Examples](https://github.com/aspose-page/Aspose.Page-for-Node.js-C) | [Blog](https://blog.aspose.com/category/page/) | [Search](https://search.aspose.com/) | [Free Support](https://forum.aspose.com/c/page) |  [Temporary License](https://purchase.aspose.com/temporary-license)
 
